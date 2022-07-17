@@ -109,14 +109,6 @@ Icon | Application
 
 
 
-Developed By
--------
-Daichi Furiya (Wasabeef) - <dadadada.chop@gmail.com>
-
-<a href="https://twitter.com/wasabeef_jp">
-<img alt="Follow me on Twitter"
-src="https://raw.githubusercontent.com/wasabeef/art/master/twitter.png" width="75"/>
-</a>
 
 Contributions
 -------
